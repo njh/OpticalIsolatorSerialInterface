@@ -1,7 +1,13 @@
 # Optical Isolator Serial Interface
 Arduino based Optical Isolator Serial Interface for EmonHub
 
-## Configuring emonHub
+Circuit Diagram
+---------------
+
+<img src="https://github.com/njh/OpticalIsolatorSerialInterface/blob/main/docs/dhw_diagram.png?raw=true" width="574" height="319" alt="Circuit Diagram with Optical Isolator board and Arduino Nano" />
+
+Configuring emonHub
+-------------------
 
 There is information about how to configure emonHub here:
 https://docs.openenergymonitor.org/emonhub/configuration.html
